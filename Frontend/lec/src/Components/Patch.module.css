@@ -1,0 +1,37 @@
+.container{
+   
+    position: relative;
+    text-align: center;
+}
+
+.text {
+    width:30%;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+   
+    /* transform: translate(-50%, -50%); */
+    color: #fff;
+    font-size: 2em;
+  }
+  
+.text2 {
+    width:30%;
+    position: absolute;
+    top: 22%;
+    left: 40%;
+   
+    /* transform: translate(-50%, -50%); */
+    color: #fff;
+ 
+  }
+.inputbox {
+    width:30%;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+   
+    /* transform: translate(-50%, -50%); */
+    color: #fff;
+    font-size: 2em;
+  }

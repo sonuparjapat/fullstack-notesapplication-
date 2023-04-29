@@ -1,0 +1,26 @@
+.container{
+   
+    position: relative;
+    text-align: center;
+}
+.inputbox {
+    width:30%;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+   
+    /* transform: translate(-50%, -50%); */
+    color: #c02e18;
+    font-size: 2em;
+  }
+  #Link {
+    width:30%;
+    position: absolute;
+    top: 100%;
+    left: 30%;
+   font-size:15px;
+  
+    /* transform: translate(-50%, -50%); */
+    color: #230451;
+    /* font-size: 2em; */
+  }
